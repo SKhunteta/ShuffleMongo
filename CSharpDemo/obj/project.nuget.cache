@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "sEPbbUMyRhjVd43ZARmMbA3Sr/mR8hIxa76SY9vgaK+Tc+C5k38LtfTGyiCBgEClUEkc4b1l8zwYNl6XePFA0g==",
+  "success": true,
+  "projectFilePath": "/Users/shreyans/Development/DataEngineeringProjects/MongoDB/CSharpDemo/CSharpDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/shreyans/.nuget/packages/dnsclient/1.6.0/dnsclient.1.6.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/mongocsharpdriver/2.15.0/mongocsharpdriver.2.15.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/mongodb.bson/2.15.0/mongodb.bson.2.15.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/mongodb.driver/2.15.0/mongodb.driver.2.15.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/mongodb.driver.core/2.15.0/mongodb.driver.core.2.15.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/mongodb.libmongocrypt/1.3.0/mongodb.libmongocrypt.1.3.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/system.configuration.configurationmanager/6.0.0/system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/Users/shreyans/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

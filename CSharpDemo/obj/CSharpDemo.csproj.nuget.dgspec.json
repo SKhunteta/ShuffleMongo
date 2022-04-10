@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shreyans/Development/DataEngineeringProjects/MongoDB/CSharpDemo/CSharpDemo.csproj": {}
+  },
+  "projects": {
+    "/Users/shreyans/Development/DataEngineeringProjects/MongoDB/CSharpDemo/CSharpDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shreyans/Development/DataEngineeringProjects/MongoDB/CSharpDemo/CSharpDemo.csproj",
+        "projectName": "CSharpDemo",
+        "projectPath": "/Users/shreyans/Development/DataEngineeringProjects/MongoDB/CSharpDemo/CSharpDemo.csproj",
+        "packagesPath": "/Users/shreyans/.nuget/packages/",
+        "outputPath": "/Users/shreyans/Development/DataEngineeringProjects/MongoDB/CSharpDemo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shreyans/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "mongocsharpdriver": {
+              "target": "Package",
+              "version": "[2.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/6.0.103/libexec/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
